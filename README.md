@@ -1,9 +1,11 @@
 # Hi there!
 
 - 👋 Hi, I’m @tkapa, Software Architect at SSW https://www.ssw.com.au/people/tylah-kapa
-- 👀 I’m interested in games and software development
-- 🌱 I’m currently learning React and Typescript  
+- 👀 Experienced in front-end and back-end tech
+- 🌱 I’m currently learning .NET MAUI and Angular  
 - 📫 Pronouns: He/Him
+
+[![Tylah's github stats](https://github-readme-stats.vercel.app/api?username=tkapa&theme=dark)](https://github.com/tkapa/github-readme-stats)
 
 Cheers,  
 Tylah Kapa  
