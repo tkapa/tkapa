@@ -1,6 +1,6 @@
 # Hi there!
 
-- 👋 Hi, I’m @tkapa, Software Architect at SSW https://www.ssw.com.au/people/tylah-kapa
+- 👋 Hi, I’m @tkapa, Software Engineer at SSW https://www.ssw.com.au/people/tylah-kapa
 - 👀 Experienced in front-end and back-end tech
 - 🌱 I’m currently learning .NET MAUI and Angular  
 - 📫 Pronouns: He/Him
