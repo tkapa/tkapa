@@ -1,8 +1,8 @@
 # Hi there!
 
-- 👋 Hi, I’m @tkapa, Software Engineer at SSW https://www.ssw.com.au/people/tylah-kapa
+- 👋 Hi, I’m @tkapa, an SSW Software Engineer and Game Developer https://www.ssw.com.au/people/tylah-kapa
 - 👀 Experienced in front-end and back-end tech
-- 🌱 I’m currently learning .NET MAUI and Angular  
+- 🎉 Loving NextJs and Vercel!
 - 📫 Pronouns: He/Him
 
 [![Tylah's github stats](https://github-readme-stats.vercel.app/api?username=tkapa&theme=dark)](https://github.com/tkapa/github-readme-stats)
