@@ -1,6 +1,6 @@
 # Hi there!
 
-- 👋 Hi, I’m @tkapa, an SSW Software Engineer and Game Developer https://www.ssw.com.au/people/tylah-kapa
+- 👋 Hi, I’m @tkapa, a Software Developer and Game Developer https://www.ssw.com.au/people/tylah-kapa
 - 👀 Experienced in front-end and back-end tech
 - 🎉 Loving NextJs and Vercel!
 - 📫 Pronouns: He/Him
